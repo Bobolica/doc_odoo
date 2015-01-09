@@ -17,4 +17,4 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-![img](/home/user/Documents/doc_odoo/documentation_odoo/img/1.png)
+![imgç2](/home/user/Documents/doc_odoo/documentation_odoo/img/1.png)
